@@ -27,7 +27,6 @@ Tenho paixão por enfrentar desafios e encontrar soluções. Minha habilidade de
 
 ### Dashboard - Faturamento loja
 [Repositório GitHub](https://github.com/EduBernardino/Dashboards-BI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduBernardino&repo=Dashboards-BI)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Análise de Dados - Crédito Cartão
 [Kaggle Notebook](https://www.kaggle.com/code/eduardovbernardino/analise-de-dados-credito-ebac)
@@ -49,4 +48,5 @@ Tenho paixão por enfrentar desafios e encontrar soluções. Minha habilidade de
 ---
 
 Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir minhas habilidades. Vamos conectar e trocar ideias! 🌐
-[<img_sre='https:///img.shields.to/badge/Linkedin-0077B52stylefor-the-badge&logo-Jinkedin&1ogoColorewhite' alt-"Linkedin' height-*30"1(https://mow.Linkedin.com/in/edu-vieira-bernardino)
+[<img src-'https://img.shields.1o/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor-white'
+alt= 'Linkedin' height='30°21(https:/ww.1inkedin.com/In/edu-vieira-bernardino)
