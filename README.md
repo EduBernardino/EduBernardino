@@ -23,10 +23,11 @@ Tenho paixão por enfrentar desafios e encontrar soluções. Minha habilidade de
 
 ---
 
-## 📁 Projetos:
+## 📁 Portifólio:
 
 ### Dashboard - Faturamento loja
 [Repositório GitHub](https://github.com/EduBernardino/Dashboards-BI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduBernardino&repo=github-readme-stats)](https://github.com/EduBernardino/Dashboards-BI)
 
 ### Análise de Dados - Crédito Cartão
 [Kaggle Notebook](https://www.kaggle.com/code/eduardovbernardino/analise-de-dados-credito-ebac)
