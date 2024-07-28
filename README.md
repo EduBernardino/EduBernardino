@@ -25,7 +25,7 @@ Tenho paixão por enfrentar desafios e encontrar soluções. Minha habilidade de
 
 ## 📁 Portifólio:
 
-### Dashboard - Faturamento loja
+### Dashboard - Faturamento loja (BI)
 [Repositório GitHub](https://github.com/EduBernardino/Dashboards-BI)
 
 ### Análise de Dados - Crédito Cartão
