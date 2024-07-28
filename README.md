@@ -1,6 +1,6 @@
 # Bem-vindo ao meu Perfil! 🚀
 
-Apaixonado por enfrentar desafios e encontrar soluções. Minha habilidade de comunicação interpessoal me permitiu adquirir amplo conhecimento e experiência em diversas áreas. Além disso, sou formado em Manutenção de Hardware e atualmente estou cursando Análise e Desenvolvimento de Sistemas e Análise de Dados.
+Tenho paixão por enfrentar desafios e encontrar soluções. Minha habilidade de comunicação interpessoal me permitiu adquirir amplo conhecimento e experiência em diversas áreas. Além disso, sou formado em Manutenção de Hardware e atualmente estou cursando Análise e Desenvolvimento de Sistemas e Análise de Dados.
 
 ## 🎓 Certificações:
 - **AWS Cloud Practitioner Certified** 📜
@@ -21,6 +21,30 @@ Apaixonado por enfrentar desafios e encontrar soluções. Minha habilidade de co
 - **Sede de conhecimento** 🔍
 - **Trabalho em grupo** 🤝
 
+---
+
+## 📁 Projetos:
+
+### Dashboard - Faturamento loja
+[Repositório GitHub](https://github.com/EduBernardino/Dashboards-BI)
+
+### Análise de Dados - Crédito Cartão
+[Kaggle Notebook](https://www.kaggle.com/code/eduardovbernardino/analise-de-dados-credito-ebac)
+
+### Análise de Dados - Mercado de TI
+[Repositório GitHub](https://github.com/EduBernardino/Projects_Data_Analysis/blob/main/Analise_Mercado_TI.ipynb)
+
+### Análise de Dados - Terrorismo Global
+[Repositório GitHub](https://github.com/EduBernardino/Terrorismo-Global)
+
+### Análise de Dados - Loggi Logística
+[Kaggle Notebook](https://www.kaggle.com/code/eduardovbernardino/analise-de-dados-loggi-logistica/notebook)
+
+### Projeto de automação - Cadastur
+[Repositório GitHub](https://github.com/EduBernardino/Projects_Data_Analysis/blob/main/Automa%C3%A7%C3%A3o_Cadastur_V1_9_1.py)
+
+### Projeto de automação - Anuga
+[Repositório GitHub](https://github.com/EduBernardino/Projects_Data_Analysis/blob/main/Scraping_Anuga.py)
 ---
 
 Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir minhas habilidades. Vamos conectar e trocar ideias! 🌐
