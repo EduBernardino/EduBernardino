@@ -49,3 +49,4 @@ Tenho paixão por enfrentar desafios e encontrar soluções. Minha habilidade de
 ---
 
 Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir minhas habilidades. Vamos conectar e trocar ideias! 🌐
+[<img_sre='https:///img.shields.to/badge/Linkedin-0077B52stylefor-the-badge&logo-Jinkedin&1ogoColorewhite' alt-"Linkedin' height-*30"1(https://mow.Linkedin.com/in/edu-vieira-bernardino)
