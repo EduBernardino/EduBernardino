@@ -25,6 +25,9 @@ Tenho paixão por enfrentar desafios e encontrar soluções. Minha habilidade de
 
 ## 📁 Portifólio:
 
+### Dashboard / Analise - Dados Google merch (Looker Studio)
+[Repositório GitHub](https://github.com/EduBernardino/Dashboard-analise-MF)
+
 ### Dashboard - Faturamento loja (BI)
 [Repositório GitHub](https://github.com/EduBernardino/Dashboards-BI)
 
