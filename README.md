@@ -31,6 +31,9 @@ Tenho paixão por enfrentar desafios e encontrar soluções. Minha habilidade de
 ### Dashboard - Faturamento loja (BI)
 [Repositório GitHub](https://github.com/EduBernardino/Dashboards-BI)
 
+### Desenvolvimento Sistema de Gestão (Em desenvolvimento) - Avalon Burger (Python)
+[Repositório GitHub](https://github.com/EduBernardino/avalon-burger)
+
 ### Análise de Dados - Crédito Cartão
 [Kaggle Notebook](https://www.kaggle.com/code/eduardovbernardino/analise-de-dados-credito-ebac)
 
