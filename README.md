@@ -11,6 +11,7 @@ Tenho paixão por enfrentar desafios e encontrar soluções. Minha habilidade de
 - **Python:** ETL, Automação de rotinas, Data Wrangling, Scraping 🐍
 - **PySpark** 🔥
 - **SQL / AWS Athena** 🗃️
+- **DataBricks**
 - **Power BI:** Power Query, DAX 📊
 - **Google Data Studio (Looker Studio)** 📈
 - **Conhecimento em Docker e AWS Cloud:** EC2, S3, Athena, VPC, VPN, Lambda ☁️
