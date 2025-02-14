@@ -1,6 +1,6 @@
 # Bem-vindo ao meu Perfil! 🚀
 
-Tenho paixão por enfrentar desafios e encontrar soluções. Minha habilidade de comunicação interpessoal me permitiu adquirir amplo conhecimento e experiência em diversas áreas. Além disso, sou formado em Manutenção de Hardware e atualmente estou cursando Análise e Desenvolvimento de Sistemas e Análise de Dados.
+Tenho paixão por enfrentar desafios e encontrar soluções. Minha habilidade de comunicação interpessoal me permitiu adquirir amplo conhecimento e experiência em diversas áreas. Além disso, sou formado em Análise e Desenvolvimento de Sistemas e Análise de Dados.
 
 ## 🎓 Certificações:
 - **AWS Cloud Practitioner Certified** 📜
